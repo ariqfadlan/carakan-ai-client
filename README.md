@@ -9,6 +9,10 @@ to try.
 
 A Flutter Client integrated into carakan.ai ecosystem.
 
+## Download
+Please refer to the [release](/releases/latest) page to download the
+pre-built binaries (apk files).
+
 ## Android and iOS
 `flutter run` for debugging on your attached \[physical,virtual\] device.
 
