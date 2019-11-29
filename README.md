@@ -7,7 +7,8 @@ to try.
 
 ---
 
-A Flutter Client integrated into carakan.ai ecosystem.
+A Flutter Client integrated into carakan.ai ecosystem. The application
+is tested on macOS 10.14.6 Mojave.
 
 ## Download
 Please refer to the [release](https://github.com/ariqfadlan/carakan-ai-client/releases/latest) page to download the
