@@ -1,9 +1,10 @@
-# carakanai
+# Carakan.AI
 carakan.ai is an application for implementing Deep Learning with CNN
 algorithm in order to classify Javanese Script called _hanacaraka._
 This model only include the main script, so-called _aksara nglegena_,
 which is consist of 20 single letters. Pre-trained model are avaiable
 to try.
+
 ---
 
 A Flutter Client integrated into carakan.ai ecosystem.
