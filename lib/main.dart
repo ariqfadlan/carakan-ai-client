@@ -59,7 +59,7 @@ class InputImage extends StatefulWidget {
 class _InputImage extends State<InputImage> {
   File _imageFile;
   bool _isUploading = false; 
-  String url = 'http://52.230.58.253:8080/upload';
+  String url = 'http://127.0.0.1:8080/upload';
 
   void _getImage(BuildContext context, ImageSource source) async {
     File image = await ImagePicker.pickImage(source: source);
