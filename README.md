@@ -10,7 +10,7 @@ to try.
 A Flutter Client integrated into carakan.ai ecosystem.
 
 ## Download
-Please refer to the [release](/releases/latest) page to download the
+Please refer to the [release](https://github.com/ariqfadlan/carakan-ai-client/releases/latest) page to download the
 pre-built binaries (apk files).
 
 ## Android and iOS
